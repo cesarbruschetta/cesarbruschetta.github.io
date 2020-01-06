@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "portifolio"
   spec.version       = "0.1.0"
-  spec.authors       = ["Cesar bruschetta"]
+  spec.authors       = ["Cesar Bruschetta"]
   spec.email         = ["cesarabruschetta@gmail.com"]
 
   spec.summary       = ""
-  spec.homepage      = "http://localhost"
+  spec.homepage      = "https://cesarbruschetta.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
