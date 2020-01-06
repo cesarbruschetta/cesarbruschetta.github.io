@@ -3,16 +3,18 @@
     <div class="container clearfix">                       
         <img class="profile-image img-fluid float-left" src="assets/images/profile.png" alt="James Lee" />
         <div class="profile-content float-left">
-            <h1 class="name">James Lee</h1>
-            <h2 class="desc">Web App Developer</h2>   
+            <h1 class="name">Cesar Augusto</h1>
+            <h2 class="desc">{{ site.title }}</h2>   
             <ul class="social list-inline">
-                <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                <li class="list-inline-item"><a href="#"><i class="fab fa-github-alt"></i></a></li>    
-                <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>   
-                <li class="list-inline-item last-item"><a href="#"><i class="fab fa-codepen"></i></a></li>                
+                <li class="list-inline-item"><a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                <li class="list-inline-item"><a href="https://github.com/{{ site.github }}" target="_blank"><i class="fab fa-github-alt"></i></a></li>    
+                <li class="list-inline-item"><a href="https://gitlab.com/{{ site.gitlab }}" target="_blank"><i class="fab fa-gitlab"></i></a></li>    
+                <li class="list-inline-item"><a href="https://join.slack.com/t/{{ site.slack }}" target="_blank"><i class="fab fa-slack"></i></i></a></li>    
+                <li class="list-inline-item last-item"><a href="https://stackoverflow.com/users/{{ site.stackOverflow }}" target="_blank"><i class="fab fa-stack-overflow"></i></a></li>   
             </ul> 
         </div><!--//profile-->
-        <a class="btn btn-cta-primary float-right" href="https://themes.3rdwavemedia.com/" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>              
+        <a class="btn btn-cta-primary float-right" href="https://t.me/{{ site.telegram }}" target="_blank">
+            <i class="fas fa-paper-plane"></i>Contacte-me</a>              
     </div><!--//container-->
 </header><!--//header-->
