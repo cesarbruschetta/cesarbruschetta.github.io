@@ -47,8 +47,8 @@
         <div class="content">
             {% for educ in site.data.education %}
                 <div class="item">                      
-                    <h3 class="title"> <i class="fas fa-graduation-cap"></i>{{ educ.graduation }}</h3>
-                    <h4 class="university">{{ educ.university }} <span class="year">{{ educ.year }}</span></h4>
+                    <h3 class="title"><i class="fas fa-graduation-cap"></i> {{ educ.graduation }}</h3>
+                    <h4 class="university">{{ educ.university }} <span class="year">({{ educ.year }})</span></h4>
                 </div><!--//item-->
             {% endfor %}   
         </div><!--//content-->

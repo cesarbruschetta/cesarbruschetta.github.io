@@ -1,9 +1,51 @@
 [
     {
-        "title": "Co-Founder & Lead Developer",
-        "place_url":"",
-        "place": "Startup Hub",
-        "year": "2014 - Present",
-        "description": "Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt."
+        "title": "Desenvolvedor de Software Pleno",
+        "place_url": "https://luizalabs.com",
+        "place": "LuizaLabs - Magazine Luiza",
+        "year": "nov de 2019 - Presente",
+        "description": ""
+    },
+    {
+        "title": "Engenheiro de Software Sênior",
+        "place_url": "https://amcom.com.br/",
+        "place": "AMcom Sistemas de Informação",
+        "year": "set de 2019 – out de 2019",
+        "description": ""
+    },
+    {
+        "title": "Desenvolvedor de Software Pleno",
+        "place_url": "https://www.scielo.org/",
+        "place": "SciELO - Scientific Electronic Library Online",
+        "year": "jan de 2019 – set de 2019",
+        "description": "Desenvolvimento de aplicações de back-end com a utilização de Python e Django. Utilização de Metodologia Ágil e gerenciamento de serviços utilizando Flask e outros. Testes unitários com Jenkins e outros. Atualização diária no github das pesquisas e artigos lançados."
+    },
+    {
+        "title": "Product Analyst Programmer",
+        "place_url": "https://www.lexisnexis.com/en-us/home.page",
+        "place": "LexisNexis",
+        "year": "ago de 2017 – dez de 2018",
+        "description": "Desenvolvimento de back-end com a utilização de Python e Django. Customização do sistema de ERP ODOO, gerenciamento do banco de dados, criação de views, query. Utilização de Metodologia Ágil e gerenciamento do serviços EC2, elaboração de scripts na plataforma AWS Lambda, dentre outros."
+    },
+    {
+        "title": "Desenvolvedor Python",
+        "place_url": "https://cwi.com.br/",
+        "place": "CWI Software",
+        "year": "jan de 2017 – ago de 2017",
+        "description": "Nessa empresa trabalhava alocado para a empresa LexisNexis, onde desenvolvendo aplicações em python, utilizando framework Django envolvendo também a parte de Front-end. Teste Unitários com Jenkins e outros"
+    },
+    {
+        "title": "Desenvolvedor Pleno",
+        "place_url": "https://www.pingobox.com.br/",
+        "place": "pinGObox",
+        "year": "fev de 2015 – jan de 2017",
+        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o framework Django. Integração com WebServes. Criação de Página HTML, CSS e JS, dentre outras coisas. Criação de rotinas assíncronas utilizando o serviço celery, Implantação de emissão de nota fiscal eletrônica."
+    },
+    {
+        "title": "Desenvolvedor",
+        "place_url": "https://www.liberiun.com.br/",
+        "place": "Liberiun",
+        "year": "nov de 2010 – fev de 2015",
+        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o CMS Plone e o framework Django, gerenciamento dos servidores dos clientes, realizava deploy das aplicações nos servidores dos clientes, entre outras atividades relacionadas a implantação e gerenciamento das novas funcionalidades."
     }
-]
+]￼

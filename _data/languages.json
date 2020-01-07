@@ -1,7 +1,12 @@
 [
     {
-        "title": "qqq",
-        "level": "xxx",
-        "star": 2
+        "title": "Inglês",
+        "level": "Intermediario",
+        "star": 3
+    },
+    {
+        "title": "Português",
+        "level": "Fluente ou nativo",
+        "star": 5
     }
 ]

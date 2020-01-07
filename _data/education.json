@@ -1,7 +1,12 @@
 [
     {
-        "graduation": "sssss",
-        "university": "XXX",
-        "year": "(1234 - 1234)"
+        "graduation": "Pós-graduação Engenharia da Qualidade de Software",
+        "university": "Centro Universitário Senac",
+        "year": "2016 – 2017"
+    },
+    {
+        "graduation": "Tecnólogo em Sistemas Para Internet",
+        "university": "USCS - Universidade Municipal de São Caetano do Sul",
+        "year": "2010 – 2012"
     }
 ]
