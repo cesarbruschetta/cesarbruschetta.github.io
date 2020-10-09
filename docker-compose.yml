@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  site:
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --force_polling --verbose
+    environment:
+      GIT_DISCOVERY_ACROSS_FILESYSTEM: "1"
+    restart: always
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - "4000:4000"    
