@@ -4,14 +4,21 @@
         "place_url": "https://luizalabs.com",
         "place": "LuizaLabs - Magazine Luiza",
         "year": "nov de 2019 - Presente",
-        "description": ""
+        "description": "Atuo na Squad de Recomendações, que é responsável por toda a plataforma de recomendações de produtos no site, no APP e em todos os meios de comunicação da Magazine Luiza. Além disso, participando do desenvolvimento e manutenção de todo o ecossistema de recomendações que inclui: APIs, indexadores de Algoritmos, processamento de grandes volumes de dados, dentre outras coisas. Atuo na configuração e utilização dos Serviços do GCP (Google Cloud), utilizamos servidores como REDIS, MONGODB para persistência dos dados de recomendações e caches dinâmicos nas aplicações."
+    },
+    {
+        "title": "Desenvolvedor Backend Expert",
+        "place_url": "https://www.cognitivo.ai/",
+        "place": "Cognitivo.ai",
+        "year": "jun de 2019 - Presente",
+        "description": "Atuo no desenvolvimento de coletores de dados através de API ou de qualquer outra fonte massiva de dados, participando de vários projetos dos clientes da Cognitivo.ai, de diferentes áreas e segmentos, assim podendo realizar a centralização dos dados em um repositórios conhecido como DataLake. Também atuo na criação de scripts na plataforma AWS LambdaAWS e na automatização de Cloud com Terraform, dentre as mais diversas propostas. visualizar menos"
     },
     {
         "title": "Engenheiro de Software Sênior",
         "place_url": "https://amcom.com.br/",
         "place": "AMcom Sistemas de Informação",
         "year": "set de 2019 – out de 2019",
-        "description": ""
+        "description": "Criação e manutenção de novas aplicações utilizando os frameworks Django, para a secretaria da educação da prefeitura de São Paulo, também atuei na criação e manutenção de aplicações Front-End utilizando os frameworks React, redux e seus compomentes. Também atuando na criação de estrutura de Docker para facilitar o deploy e teste unitários"
     },
     {
         "title": "Desenvolvedor de Software Pleno",
@@ -25,7 +32,7 @@
         "place_url": "https://www.lexisnexis.com/en-us/home.page",
         "place": "LexisNexis",
         "year": "ago de 2017 – dez de 2018",
-        "description": "Desenvolvimento de back-end com a utilização de Python e Django. Customização do sistema de ERP ODOO, gerenciamento do banco de dados, criação de views, query. Utilização de Metodologia Ágil e gerenciamento do serviços EC2, elaboração de scripts na plataforma AWS Lambda, dentre outros."
+        "description": "Desenvolvimento de back-end com a utilização de Python e Django. Customização do sistema de ERP ODOO, gerenciamento do banco de dados, criação de views, query. Utilização de Metodologia Ágil e gerenciamento do serviços EC2, elaboração de scripts na plataforma AWS Lambda, dentre outros. Ampla bagagem em banco de dados relacional como MySQL e PostgreSQL;"
     },
     {
         "title": "Desenvolvedor Python",
@@ -39,13 +46,13 @@
         "place_url": "https://www.pingobox.com.br/",
         "place": "pinGObox",
         "year": "fev de 2015 – jan de 2017",
-        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o framework Django. Integração com WebServes. Criação de Página HTML, CSS e JS, dentre outras coisas. Criação de rotinas assíncronas utilizando o serviço celery, Implantação de emissão de nota fiscal eletrônica."
+        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o framework Django. Integração com WebServes. Criação de Página HTML, CSS e JS, dentre outras coisas. Criação de rotinas assíncronas utilizando o serviço celery, Implantação de emissão de nota fiscal eletrônica. Habilidade em HTML5 e CSS3, além de ter utilizado com layouts responsivos e o framework Bootstrap; Grande capacidade na utilização e implementação de JAVASCRIPT e biblioteca JQUERY e seus plug-ins; Prática em criação e gerenciamento de rotinas assíncronas utilizando o Celery;"
     },
     {
         "title": "Desenvolvedor",
         "place_url": "https://www.liberiun.com.br/",
         "place": "Liberiun",
         "year": "nov de 2010 – fev de 2015",
-        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o CMS Plone e o framework Django, gerenciamento dos servidores dos clientes, realizava deploy das aplicações nos servidores dos clientes, entre outras atividades relacionadas a implantação e gerenciamento das novas funcionalidades."
+        "description": "Desenvolvimento de aplicações para internet em Python, utilizando o CMS Plone e o framework Django, gerenciamento dos servidores dos clientes, realizava deploy das aplicações nos servidores dos clientes, entre outras atividades relacionadas a implantação e gerenciamento das novas funcionalidades. Experiência na implantação de caches dinâmicos nas aplicações, proporcionando melhor desempenho, utilizando Servidores como REDIS, MONGODB, MEMCACHED; Gerenciamento e monitoramento de servidores Linux e Aplicação/Serviços, além de ter trabalhado com ambientes de virtualização de servidores, como XEN SERVER e VMWARE ESXI, Ambientes de cloud como Amazon Web Services, DigitalOcean;"
     }
 ]￼

@@ -1,7 +1,122 @@
 [
     {
-        "title": "xx",
-        "tooltip": "You can use the tooltip to explain more about your skill level...",
-        "level": 96
+        "title": "Airflow",
+        "tooltip": "Apache Airflow",
+        "level": 60
+    },
+    {
+        "title": "AWS",
+        "tooltip": "Amazon Web Services, Inc.",
+        "level": 80
+    },
+    {
+        "title": "Celery",
+        "tooltip": "",
+        "level": 50
+    },
+    {
+        "title": "DigitalOcean",
+        "tooltip": "DigitalOcean, Inc",
+        "level": 80
+    },
+    {
+        "title": "Django / Flask / Pyramid",
+        "tooltip": "Web Frameworks",
+        "level": 80
+    },
+    {
+        "title": "Foundation / Zurb / Bootstrap",
+        "tooltip": "Frondend Framework",
+        "level": 80
+    },
+    {
+        "title": "GIT",
+        "tooltip": "Sistema de controle de versões distribuído",
+        "level": 100
+    },
+    {
+        "title": "Google Cloud",
+        "tooltip": "Google Cloud Platform",
+        "level": 90
+    },
+    {
+        "title": "Html5 / CSS3 / JS",
+        "tooltip": "",
+        "level": 80
+    },
+    {
+        "title": "Java",
+        "tooltip": "",
+        "level": 50
+    },
+    {
+        "title": "Kubernetes",
+        "tooltip": "Sistema de orquestração de contêineres open-source que automatiza a implantação",
+        "level": 50
+    },
+    {
+        "title": "Less / Sass",
+        "tooltip": "Linguagem de folha de estilos dinâmica",
+        "level": 50
+    },
+    {
+        "title": "Linux",
+        "tooltip": "Sistema operacional open-sourse",
+        "level": 80
+    },
+    {
+        "title": "Memcached",
+        "tooltip": "Sistema distribuído de cache em memória de propósitos gerais",
+        "level": 80
+    },
+    {
+        "title": "Metodologia Ágil",
+        "tooltip": "Desenvolvimento Ágil de Software ou Método ágil é uma disciplina que estuda um conjunto de comportamentos, processos, práticas e ferramentas utilizados para a criação de produtos e sua subsequente disponibilização para os usuários finais.",
+        "level": 100
+    },
+    {
+        "title": "MongoDB",
+        "tooltip": "Banco de dados orientado a documentos livre",
+        "level": 90
+    },
+    {
+        "title": "MySQL / PostgreSQL",
+        "tooltip": "Sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface",
+        "level": 85
+    },
+    {
+        "title": "NodeJS",
+        "tooltip": "",
+        "level": 70
+    },
+    {
+        "title": "Python",
+        "tooltip": "",
+        "level": 100
+    },
+    {
+        "title": "React / Angular",
+        "tooltip": "Biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.",
+        "level": 80
+    },
+    {
+        "title": "Redis",
+        "tooltip": "Base de dados em rede open-source, que armazena chaves com durabilidade opcional",
+        "level": 80
+    },
+    {
+        "title": "Spark",
+        "tooltip": "Framework de código fonte aberto para computação distribuída",
+        "level": 80
+    },
+    {
+        "title": "Terraform",
+        "tooltip": "Terraform é uma infraestrutura de código aberto como ferramenta de software",
+        "level": 60
+    },
+    {
+        "title": "Vmware ESXI / Xen Server",
+        "tooltip": "Hipervisor de nível empresarial tipo 1 desenvolvido pela VMware para implantar e servir computadores virtuais",
+        "level": 70
     }
 ]
